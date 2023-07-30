@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/landing-page-react-router-repo/static/css/main.82a58b81.css",
+    "main.js": "/landing-page-react-router-repo/static/js/main.03b774ce.js",
+    "static/media/laptop.jpg": "/landing-page-react-router-repo/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/8.jpg": "/landing-page-react-router-repo/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/single.png": "/landing-page-react-router-repo/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/landing-page-react-router-repo/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/landing-page-react-router-repo/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/landing-page-react-router-repo/index.html",
+    "main.82a58b81.css.map": "/landing-page-react-router-repo/static/css/main.82a58b81.css.map",
+    "main.03b774ce.js.map": "/landing-page-react-router-repo/static/js/main.03b774ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a58b81.css",
+    "static/js/main.03b774ce.js"
+  ]
+}
