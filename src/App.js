@@ -10,7 +10,7 @@ import About from "./pages/About";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename="/landing-page-react-router-repo">
         <Navbar />
 
         <Routes>
